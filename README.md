@@ -45,6 +45,7 @@
 ## Blogs
 
 - [Jacek Majchrzak Blog on facilitation, software & data architecture](https://jacekmajchrzak.com/blog/) - Jacek Majchrzak Blog on facilitation, software & data architecture.
+- [Le Système d’Information Héréditaire : l’évolution par la transmission du patrimoine identitaire](https://blog.octo.com/le-systeme-dinformation-hereditaire-levolution-par-la-transmission-du-patrimoine-identitaire/) - Article (in French) that introduces the concept of data mesh.
 
 ## Podcasts and Interviews
 
