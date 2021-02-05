@@ -40,7 +40,7 @@
 
 ## Community Resources
 
-- [Data Mesh Slack community](datamess2datamesh.slack.com) - Active slack community about Data Mesh, Scaled Architecture and related topics.
+- [Data Mesh Slack community](data-mesh.slack.com) - Active slack community about Data Mesh, Scaled Architecture and related topics.
 
 ## Blogs
 
