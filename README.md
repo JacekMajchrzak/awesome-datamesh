@@ -44,6 +44,7 @@
 - [Data Mesh Paradigm Shift in Data Platform Architecture - Arif Wider - DDD Europe 2020](https://www.youtube.com/watch?v=Iqbl9AS03VU&t=1s) - DDD Europe talk about Data Mesh.
 - [Zhamak Dehghani | Kafka Summit Europe 2021 Keynote: How to Build the Data Mesh Foundation](https://www.youtube.com/watch?v=QF41q10NSAs) - Kafka Summit talk about building the foundations for Data Mesh.
 - [Data Mesh Learning | YouTube Channel](https://www.youtube.com/channel/UC3bSfMzhHjeX_tFdte1esgQ/featured) - Meetup session recordings of the Data Mesh Learning community.
+- [Data Mesh Bookclub | YouTube Channel](https://www.youtube.com/playlist?list=PL4Q4HssKcxYunGOPCphuUmilOhIrN-JUq) - Series of one hour community discussions of Zhamak's DataMesh book, with cloud examples
 
 ## Community Resources
 
